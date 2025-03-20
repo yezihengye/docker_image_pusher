@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 portainer/portainer
 openjdk:8-jre-slim
+langfuse/langfuse:2
+postgres
